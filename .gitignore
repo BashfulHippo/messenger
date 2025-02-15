@@ -1,0 +1,25 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# local data
+*.dsu
+*.db
+*.log
+config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# testing
+.pytest_cache/
+.coverage
+htmlcov/
